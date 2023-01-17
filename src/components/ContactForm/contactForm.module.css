@@ -8,17 +8,23 @@
 }
 
 .btn {
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: rgb(134, 230, 134);
   border: 1px solid black;
   border-radius: 5px;
-  margin-top: 15px;
 }
 .label {
   margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .input {
   margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   border: 1px solid black;
   border-radius: 5px;
 }

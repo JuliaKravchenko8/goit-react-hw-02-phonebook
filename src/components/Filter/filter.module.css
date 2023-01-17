@@ -7,7 +7,13 @@
 }
 
 .filterInput {
+  padding-top: 5px;
+  padding-bottom: 5px;
   min-width: 230px;
   border: 1px solid black;
   border-radius: 5px;
+}
+
+.label {
+  padding-top: 5px;
 }
