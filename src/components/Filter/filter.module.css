@@ -1,6 +1,6 @@
 .filter {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   width: 90%;
   margin-bottom: 30px;
@@ -17,4 +17,5 @@
 
 .label {
   padding-top: 5px;
+  padding-bottom: 5px;
 }
